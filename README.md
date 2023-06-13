@@ -45,6 +45,3 @@ El sitio web cuenta con dos secciones **Store [tienda]** y **Administración [á
 	* ***USER*** : Usuario DB
 	* ***PASSWORD*** : Password DB
 	* ***DB_NAME*** : Nombre DB
-
-### NOTA ADICIONAL
-> La base de datos para pruebas **NO ESTÁ COMPLETA**, la restauración está en proceso.
