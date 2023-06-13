@@ -45,3 +45,8 @@ El sitio web cuenta con dos secciones **Store [tienda]** y **Administración [á
 	* ***USER*** : Usuario DB
 	* ***PASSWORD*** : Password DB
 	* ***DB_NAME*** : Nombre DB
+ 
+### NOTA ADICIONAL
+> Usuario para acceder a la sección de administración:
+> * Usuario : admin
+> * Password : admin123
